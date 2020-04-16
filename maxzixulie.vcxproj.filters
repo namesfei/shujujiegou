@@ -44,5 +44,8 @@
     <ClCompile Include="ListLeaves.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="TraversalAgain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

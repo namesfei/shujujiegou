@@ -129,6 +129,7 @@
     <ClCompile Include="TonggouTree.cpp" />
     <ClCompile Include="ListLeaves.cpp" />
     <ClCompile Include="TraversalAgain.cpp" />
+    <ClCompile Include="IsSameTree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DuoxshHeJi.h" />

@@ -130,6 +130,7 @@
     <ClCompile Include="ListLeaves.cpp" />
     <ClCompile Include="TraversalAgain.cpp" />
     <ClCompile Include="IsSameTree.cpp" />
+    <ClCompile Include="RootAvl.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DuoxshHeJi.h" />

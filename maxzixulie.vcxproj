@@ -126,6 +126,7 @@
     <ClCompile Include="MaxZixulie.cpp" />
     <ClCompile Include="DuoxshHeJi.cpp" />
     <ClCompile Include="reverse.cpp" />
+    <ClCompile Include="RootAVL2.cpp" />
     <ClCompile Include="TonggouTree.cpp" />
     <ClCompile Include="ListLeaves.cpp" />
     <ClCompile Include="TraversalAgain.cpp" />
@@ -133,6 +134,7 @@
     <ClCompile Include="RootAvl.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AVLTreeInsert.h" />
     <ClInclude Include="DuoxshHeJi.h" />
     <ClInclude Include="maxzixulie.h" />
     <ClInclude Include="maxzixulie2.h" />

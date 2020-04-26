@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CompleteBinarySearchTree.cpp" />
     <ClCompile Include="MaxZixulie.cpp" />
     <ClCompile Include="DuoxshHeJi.cpp" />
     <ClCompile Include="reverse.cpp" />
